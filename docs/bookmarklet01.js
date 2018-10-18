@@ -1,4 +1,4 @@
-(function() {
+( function() {
 
     console.log( "bookmark fun time!" );
 
@@ -7,10 +7,10 @@
     for ( let i = 0; i < paragraphs.length; i++ ) {
 
         paragraphs[i].innerHTML = 'Eat Lunch, go';
-        
+
     }
 
-})();
+} ) ();
 
 // (function() {
 //
